@@ -1,5 +1,4 @@
-
-#Pandas Customer Call List Data Cleaning
+# Customer Call List Data Cleaning
 
 A small Pandas project focused on cleaning a customer contact dataset.
 
