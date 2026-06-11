@@ -30,9 +30,10 @@ The cleaning process included:
 
 ![After Cleaning](After_cleaning.png)
 
-### Files
-
-* `customer_call_list_cleaning.py` — cleaning workflow
-* `Customer Call List.xlsx` — source dataset
+Files
+customer_call_list_cleaning.ipynb — notebook containing the cleaning workflow
+Customer Call List.xlsx — source dataset
+Before_cleaning.png — raw dataset preview
+After_cleaning.png — cleaned dataset preview
 
 This project was completed as practice for developing data cleaning and transformation skills using Pandas.
