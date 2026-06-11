@@ -22,6 +22,14 @@ The cleaning process included:
 * Regular expressions (Regex)
 * Data filtering and indexing
 
+## Before Cleaning
+
+![Before Cleaning](Before_cleaning.png)
+
+## After Cleaning
+
+![After Cleaning](After_cleaning.png)
+
 ### Files
 
 * `customer_call_list_cleaning.py` — cleaning workflow
